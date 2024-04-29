@@ -1,6 +1,6 @@
 components {
   id: "lightning_mage"
-  component: "/chars/lightning_mage/lightning_mage.script"
+  component: "/chars/Lightning Mage/Lightning Mage.script"
   position {
     x: 0.0
     y: 0.0
@@ -21,7 +21,7 @@ embedded_components {
   "blend_mode: BLEND_MODE_ALPHA\n"
   "textures {\n"
   "  sampler: \"texture_sampler\"\n"
-  "  texture: \"/chars/lightning_mage/lightning_mage.atlas\"\n"
+  "  texture: \"/chars/Lightning Mage/Lightning Mage.atlas\"\n"
   "}\n"
   ""
   position {

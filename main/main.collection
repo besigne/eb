@@ -1,7 +1,7 @@
 name: "main"
 instances {
   id: "lightning_mage"
-  prototype: "/chars/lightning_mage/lightning_mage.go"
+  prototype: "/chars/Lightning Mage/Lightning Mage.go"
   position {
     x: 394.0
     y: 304.0
